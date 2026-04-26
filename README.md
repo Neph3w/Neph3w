@@ -21,7 +21,6 @@ Estudante de Cibersegurança com foco em **Blue Team**, análise de **SOC** e op
 - 🔍 Especialização: Monitoramento de logs, detecção de intrusão, resposta a incidentes
 - 🛡️ Ferramentas: Wazuh · QRadar · Splunk · FortiGate · IPTables
 - 📚 Atualmente estudando: **CompTIA Security+**
-- 📍 Joinville, SC — Brasil
 - 💼 Disponível para: Estágio ou posição Júnior em Cibersegurança
 
 ---
