@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Alexandre Reis — Neph3w</h1>
 
-<!--
-**Neph3w/Neph3w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Cybersecurity student · Blue Team · SOC & SIEM Analysis</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-reis-175252238/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20SOC-1a1a2e?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+Estudante de Cibersegurança com foco em **Blue Team**, análise de **SOC** e operações com **SIEM**. Tenho experiência prática com ferramentas como Wazuh, QRadar e Splunk, e estou em busca de uma oportunidade de **estágio ou posição júnior** onde eu possa contribuir com monitoramento, detecção de ameaças e resposta a incidentes.
+
+- 🔍 Especialização: Monitoramento de logs, detecção de intrusão, resposta a incidentes
+- 🛡️ Ferramentas: Wazuh · QRadar · Splunk · FortiGate · IPTables
+- 📚 Atualmente estudando: **CompTIA Security+**
+- 📍 Joinville, SC — Brasil
+- 💼 Disponível para: Estágio ou posição Júnior em Cibersegurança
+
+---
+
+## 🎓 Certificações
+
+| Certificação | Instituição | Ano |
+|---|---|---|
+| 📘 Analista SOC | IBSEC | 2026 |
+| 🔵 Cybersecurity Defense Analyst Career Path | Cisco Networking Academy | 2026 |
+| 🔵 Junior Cybersecurity Analyst Career Path | Cisco Networking Academy | 2026 |
+| 🟠 Fortinet NSE 3 — Certified Associate in Cybersecurity | Fortinet | 2026 |
+| 🟠 Fortinet NSE 1 & NSE 2 — Fundamentals in Cybersecurity | Fortinet | 2026 |
+| 🔴 IBM QRadar SIEM Foundation | IBM | 2026 |
+| 🕵️ Cyber Threat Intelligence 101 (FTIA) | ArcX | 2026 |
+| ⏳ CompTIA Security+ *(em andamento)* | CompTIA | 2026 |
+
+---
+
+## 🛠️ Skills & Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-00bfff?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPTables-333333?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+**Áreas de atuação:**
+`SIEM` · `Log Analysis` · `Threat Detection` · `Incident Response` · `Network Security` · `Threat Intelligence` · `Blue Team` · `SOC Operations` · `Cyber Kill Chain` · `OSINT` · `NGFW / IPS / IDS`
+
+---
+
+## 📂 Projetos
+
+### 🔒 [wazuh-active-response-ips](https://github.com/Neph3w/wazuh-active-response-ips)
+> Implementação de resposta ativa (IPS) com Wazuh e IPTables para mitigação de ataques Brute Force SSH.
+
+Configuração de regras customizadas no Wazuh para detecção de tentativas de Brute Force via SSH, acionando automaticamente o IPTables para bloqueio dos IPs maliciosos — simulando um ambiente real de SOC com resposta automatizada a incidentes.
+
+`Wazuh` · `IPTables` · `Shell Script` · `Linux` · `Blue Team` · `IPS`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Neph3w&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neph3w&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Security is not a product, but a process." — Bruce Schneier</em>
+</p>
+
+<p align="center">
+  💼 Aberto a oportunidades de estágio e posições júnior em Cibersegurança
+  <br/>
+  <a href="https://www.linkedin.com/in/alexandre-reis-175252238/">Entre em contato pelo LinkedIn</a>
+</p>
