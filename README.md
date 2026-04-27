@@ -49,6 +49,7 @@ Estudante de Cibersegurança com foco em **Blue Team**, análise de **SOC** e op
   <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/IPTables-333333?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
@@ -62,9 +63,9 @@ Estudante de Cibersegurança com foco em **Blue Team**, análise de **SOC** e op
 ### 🔒 [wazuh-active-response-ips](https://github.com/Neph3w/wazuh-active-response-ips)
 > Implementação de resposta ativa (IPS) com Wazuh e IPTables para mitigação de ataques Brute Force SSH.
 
-Configuração de regras customizadas no Wazuh para detecção de tentativas de Brute Force via SSH, acionando automaticamente o IPTables para bloqueio dos IPs maliciosos — simulando um ambiente real de SOC com resposta automatizada a incidentes.
+Configuração de regras customizadas no Wazuh para detecção de tentativas de Brute Force via  SSH, acionando automaticamente o IPTables para bloqueio dos IPs maliciosos e notificando o  canal de SOC via Discord com enriquecimento de Threat Intelligence via AbuseIPDB.
 
-`Wazuh` · `IPTables` · `Shell Script` · `Linux` · `Blue Team` · `IPS`
+`Wazuh` · `IPTables` · `Shell Script` · `Python` · `Linux` · `Blue Team` · `IPS` · `AbuseIPDB`
 
 ---
 
