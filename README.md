@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexandre-reis-175252238/">
-    </a>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20SOC-1a1a2e?style=for-the-badge&logo=shield&logoColor=white" />
   </p>
