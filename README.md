@@ -64,6 +64,13 @@ Configuração de regras customizadas no Wazuh para detecção de tentativas de 
 
 `Wazuh` · `IPTables` · `Shell Script` · `Python` · `Linux` · `Blue Team` · `IPS` · `AbuseIPDB`
 
+### 🛡️ [PhishGuard](https://github.com/Neph3w/PhishGuard)
+> Scanner de phishing em tempo real para monitoramento de caixas de entrada via IMAP.
+
+Análise heurística multicamada de e-mails com detecção de keywords, spoofing de marcas e URLs suspeitas, enriquecimento de Threat Intelligence via VirusTotal API v3 e alertas estruturados para o canal de SOC via Discord.
+
+`Python` · `IMAP` · `VirusTotal` · `Discord` · `OAuth2` · `Blue Team` · `Threat Intelligence` · `Phishing Detection`
+
 ---
 
 ## 📊 GitHub Stats
