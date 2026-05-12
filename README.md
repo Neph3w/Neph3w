@@ -64,20 +64,27 @@ Configuração de regras customizadas no Wazuh para detecção de tentativas de 
 
 `Wazuh` · `IPTables` · `Shell Script` · `Python` · `Linux` · `Blue Team` · `IPS` · `AbuseIPDB`
 
-### 🛡️ [PhishGuard](https://github.com/Neph3w/PhishGuard)
+### 🛡️ [phish-guard](https://github.com/Neph3w/phish-guard)
 > Scanner de phishing em tempo real para monitoramento de caixas de entrada via IMAP.
 
 Análise heurística multicamada de e-mails com detecção de keywords, spoofing de marcas e URLs suspeitas, enriquecimento de Threat Intelligence via VirusTotal API v3 e alertas estruturados para o canal de SOC via Discord.
 
 `Python` · `IMAP` · `VirusTotal` · `Discord` · `OAuth2` · `Blue Team` · `Threat Intelligence` · `Phishing Detection`
 
+### ⚙️ [realize-dom-injector](https://github.com/Neph3w/realize-dom-injector)
+> Userscript para Tampermonkey com engenharia reversa do editor TinyMCE da plataforma Realize, manipulando DOM em iframes cross-origin e automatizando formatação de conteúdo.
+
+Análise e mapeamento do formato JSON proprietário dos blocos interativos da plataforma Vitru Realize, com injeção direta no DOM do editor TinyMCE via iframe same-origin. Implementação de extração de imagens via Canvas API com fallback CORS, automação de formatação de figuras, parágrafos e referências ABNT, e integração multimodal com Gemini, Claude e GPT-4o para conversão de imagens em tabelas HTML e processamento de texto em lote com retry automático.
+
+`JavaScript` · `Tampermonkey` · `DOM Manipulation` · `TinyMCE` · `Canvas API` · `Gemini API` · `Claude API` · `OpenAI API` · `Reverse Engineering` · `Userscript`
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Neph3w&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neph3w&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-lilac-two-92.vercel.app/api?username=Neph3w&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats-lilac-two-92.vercel.app/api/top-langs/?username=Neph3w&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
