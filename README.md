@@ -74,7 +74,7 @@ Análise heurística multicamada de e-mails com detecção de keywords, spoofing
 ### ⚙️ [realize-dom-injector](https://github.com/Neph3w/realize-dom-injector)
 > Userscript para Tampermonkey com engenharia reversa do editor TinyMCE da plataforma Realize, manipulando DOM em iframes cross-origin e automatizando formatação de conteúdo.
 
-Análise e mapeamento do formato JSON proprietário dos blocos interativos da plataforma Vitru Realize, com injeção direta no DOM do editor TinyMCE via iframe same-origin. Implementação de extração de imagens via Canvas API com fallback CORS, automação de formatação de figuras, parágrafos e referências ABNT, e integração multimodal com Gemini, Claude e GPT-4o para conversão de imagens em tabelas HTML e processamento de texto em lote com retry automático.
+Análise e mapeamento do formato JSON proprietário dos blocos interativos da plataforma Realize, com injeção direta no DOM do editor TinyMCE via iframe same-origin. Implementação de extração de imagens via Canvas API com fallback CORS, automação de formatação de figuras, parágrafos e referências ABNT, e integração multimodal com Gemini, Claude e GPT-4o para conversão de imagens em tabelas HTML e processamento de texto em lote com retry automático.
 
 `JavaScript` · `Tampermonkey` · `DOM Manipulation` · `TinyMCE` · `Canvas API` · `Gemini API` · `Claude API` · `OpenAI API` · `Reverse Engineering` · `Userscript`
 
